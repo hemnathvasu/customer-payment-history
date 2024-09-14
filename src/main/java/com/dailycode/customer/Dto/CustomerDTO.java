@@ -16,7 +16,4 @@ public class CustomerDTO {
     private int age;
     private long phone;
     private List<AgreementDetailDTO> agreementDetails;
-
-    // Getters and setters
-    // ...
 }
